@@ -1,0 +1,8 @@
+git init
+git add
+git commit -m
+git status
+git diff
+git log
+git push origin main
+git pull origin main
